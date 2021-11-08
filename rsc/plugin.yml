@@ -1,0 +1,5 @@
+name: Project-Nation
+author: Aphaistos
+version: 0.0.1
+api-version: 1.17
+main: fr.aphaistos.projectnation.PNPlugin
