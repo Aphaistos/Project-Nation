@@ -1,0 +1,4 @@
+# You can use %player% to display player name
+messages:
+  prefix: "&4[ProjectNation]&r"
+  join-message: "%prefix% &a%player% &r&6has joined the game !"
